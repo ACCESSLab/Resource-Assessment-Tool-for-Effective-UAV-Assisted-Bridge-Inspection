@@ -9,10 +9,10 @@ Following are the inputs that comprise the Inspection Plan, Bridge Dynamics, and
 
 Inspection Plan:
 
-# of Vertical Flights
-# of Horizontal Flights
-# of Longitudinal Flights
-# of Isolated Elements
+Number of Vertical Flights
+Number of Horizontal Flights
+Number of Longitudinal Flights
+Numer of Isolated Elements
 Error Factor (%)
 Adjustment Time	(/sec)
 Flight Speed (mph)
@@ -20,12 +20,12 @@ Flight Speed (mph)
 
 Bridge Characteristics:			
 
-Heigh of Vertical Element		    /ft
-Length of Horizontal Element		/ft
-Length of Longitudinal Element	/ft
-Length of Grade Beam			      /ft
-Width of Deck				            /ft
-Length of Deck				          /ft
+Heigh of Vertical Element       /ft
+Length of Horizontal Element    /ft
+Length of Longitudinal Element  /ft
+Length of Grade Beam            /ft
+Width of Deck                   /ft
+Length of Deck                  /ft
 Number of Spans		
 Inspection Time of Isolated Element		
 
@@ -36,7 +36,7 @@ Time /battery swap		/min
 
 Flight Speed Range Based on Pilot’s Skill Level
 
-Basic		      1.00 - 1.75		mph
+Basic		1.00 - 1.75		mph
 Intermediate	1.75 - 2.30		mph
 Professional	2.30 - 3.00		mph
 
