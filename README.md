@@ -2,7 +2,9 @@
 
 In this study, a resource estimation tool that can be used to estimate the resources required for UAS-assisted bridge inspections is developed. The tool can aid inspectors in determining the estimated flight time and resources required for using a specific UAS and operator during inspection of a specific bridge. The tool supports the development of optimal flight paths based on the structural geometry and positioning of structural elements of a bridge, establishes a range of recommended flight speeds for conducting reliable UAS-assisted bridge inspections based on the skill level(s) of the pilot(s) involved in the conduct of inspections, and establishes a recommended range of wind speed and the corresponding standoff clearance information for safely conducting the UAS- assisted bridge inspections. The tool also provides an estimated number of batteries required to allow the estimated required flight time.
 
-=====================================================================================================================================
+![bridge-diagram](https://github.com/ACCESSLab/Resource-Assessment-Tool-for-Effective-UAV-Assisted-Bridge-Inspection/assets/20880304/f0e6177c-bdfd-4eac-90f0-b164e8baa187)
+
+===============================================================================================
 
 ## Tool Inputs:
 
@@ -41,7 +43,7 @@ Following are the inputs that comprise the Inspection Plan, Bridge Dynamics, and
 * Intermediate	1.75 - 2.30		mph
 * Professional	2.30 - 3.00		mph
 
-=====================================================================================================================================
+===============================================================================================
 
 ## Tool Outputs:
 
