@@ -39,9 +39,9 @@ Following are the inputs that comprise the Inspection Plan, Bridge Dynamics, and
 
 ## Flight Speed Range Based on Pilot’s Skill Level
 
-* Basic	        1.00 - 1.75		mph
-* Intermediate	1.75 - 2.30		mph
-* Professional	2.30 - 3.00		mph
+* Basic	        0.60 - 1.70		mph
+* Intermediate	0.70 - 2.00		mph
+* Professional	0.90 - 2.70		mph
 
 ===============================================================================================
 
